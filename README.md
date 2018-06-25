@@ -10,6 +10,6 @@ Dependências
 Foi usada a biblioteca colt para álgebra linear:
 (https://dst.lbl.gov/ACSSoftware/colt/).
 
-O data base pode ser encontrado no seguinte site:
+O database pode ser encontrado no seguinte site:
 (http://yann.lecun.com/exdb/mnist/).
 O database deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa.
