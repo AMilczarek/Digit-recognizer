@@ -12,4 +12,4 @@ Foi usada a biblioteca colt para álgebra linear:
 
 O database pode ser encontrado no seguinte site:
 (http://yann.lecun.com/exdb/mnist/).
-O database deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa.
+Ele deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa.
