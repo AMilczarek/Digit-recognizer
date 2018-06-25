@@ -12,5 +12,4 @@ https://dst.lbl.gov/ACSSoftware/colt/
 
 O data base pode ser encontrado no seguinte site:
 http://yann.lecun.com/exdb/mnist/
-
-E deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa.
+O database deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa.
