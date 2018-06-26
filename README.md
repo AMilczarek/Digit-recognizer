@@ -12,7 +12,7 @@ Foi usada a biblioteca colt para álgebra linear:
 
 O database pode ser encontrado no seguinte site:
 (http://yann.lecun.com/exdb/mnist/).
-Ele deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa (por exemplo: "C:\Users\volrag\Documents\NetBeansProjects\JavaApplication3\sets").
+Ele deve ser colocado em uma pasta com o nome de "sets" no mesmo diretório do programa (por exemplo: "C:\Users\usuario\Documents\NetBeansProjects\JavaApplication3\sets").
 
 Instalação
 
